@@ -37,9 +37,9 @@ Pour construire ce portfolio, j'ai utilisé :
 ---
 
 ## 📫 Me contacter
-- **LinkedIn : Gianfranco Aresi
-- **Portfolio en ligne :
-- **Email : gianfranco.vichet@gmail.com
+- LinkedIn : Gianfranco Aresi
+- Portfolio en ligne :
+- Email : gianfranco.vichet@gmail.com
 
 ---
 *Dépôt mis à jour régulièrement pour refléter l'évolution de mes compétences.*
